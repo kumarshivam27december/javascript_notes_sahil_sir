@@ -4,6 +4,11 @@
 // let message = 'Hello'
 
 
+// basic of javascript
+// in this is tutorial of javascript
+
+
+
 // let num = 100, message = 'greetings'
 
 //automatically adds a semicolon
